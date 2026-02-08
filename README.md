@@ -29,7 +29,7 @@ A customizable SwiftUI Paywall SDK built on top of RevenueCat. This SDK handles 
 Swift Package Manager (SPM)
 In Xcode, go to File > Add Packages...
 
-Enter the repository URL: [BKPaywallKit](https://github.com/FallikTheCat/BKPaywallKit)
+Enter the repository URL: [BKPaywallKit](https://github.com/KocBaturay/BKPaywallKit)
 
 Select Up to Next Major Version and click Add Package.
 
